@@ -1,0 +1,5 @@
+reflection 3 practice
+
+Q. When would you want to use a remote repository rather than keeping all your work local?
+A. I want to use it for cloud backup in case my local machine blow up, and when I need to collaborate with others.
+
