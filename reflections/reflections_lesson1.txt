@@ -1,0 +1,29 @@
+Viewing difference between two versions of a file help me to find out where goes wrong, or easily to go back to the previous version.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+By doing entire history helps me to go through the logic of developing, even when I review a version long time ago.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros- Avoid too big or too small commits.
+Cons- it will be a tragedy if electricity goes out or hardware broke.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+How can you use the commands git log and git diff to view the history of files?
+
+
+How might using version control make you more confident to make changes that could break something?
+Ans: Because I can easily go back to the previous version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+language version, test functions, thought experience that I don't want to interfere the origin files.
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
